@@ -14,4 +14,7 @@ package com.example.testgit2019;  /**
  * @date 2019-6-1020:37
  */
 public class Hello {
+    private void sayHello(){
+
+    }
 }
