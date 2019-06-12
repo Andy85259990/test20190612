@@ -15,6 +15,7 @@ package com.example.testgit2019;  /**
  */
 public class Hello {
     private void sayHello(){
+        String ss = "sdsdfsdf水电费水电费";
 
     }
 }
